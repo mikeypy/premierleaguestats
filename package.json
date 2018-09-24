@@ -10,7 +10,7 @@
     "react-router-dom": "^4.3.1",
     "react-scripts": "1.1.4"
   },
-  "homepage":"https://mikepy.github.io/premierleaguestats",
+  "homepage":"https://mikeypy.github.io/premierleaguestats",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
