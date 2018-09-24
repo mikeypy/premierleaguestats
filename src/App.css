@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 80px;
+  width: 200px;
+}
+
+.App-header {
+  height: 150px;
+  padding: 20px;
+  color: #00;
+}
+.jumbotron{color:#00F !important}
+
+.App-title {
+  font-size: 2.5em;
+  color:#ff0000;
+  font-weight: bold;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.navbar-right { margin-right: 0px !important}
+.log {
+  margin: 5px 10px 0 0;
+}
