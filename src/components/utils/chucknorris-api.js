@@ -1,7 +1,7 @@
 import axios from 'axios';
 //import { getAccessToken } from './AuthService';
 
-const BASE_URL = 'http://api.football-data.org/';
+const BASE_URL = 'https://api.football-data.org/';
 
 var config = {
   headers: {'X-Auth-Token': '6e6322fc020e47c3b0ccac3c371a70a7'}
