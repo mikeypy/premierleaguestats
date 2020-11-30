@@ -1,5 +1,4 @@
 import axios from 'axios';
-//import { getAccessToken } from './AuthService';
 
 const BASE_URL = 'https://api.football-data.org/';
 
